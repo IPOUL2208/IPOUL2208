@@ -17,6 +17,7 @@ I don’t just deploy infrastructure — **I engineer platforms**.
 ### 🔹 Cloud Platforms
 - **AWS (Primary)**
 - **GCP**
+- **Azure**
 
 ### 🔹 Infrastructure as Code
 - **Terraform** – reusable, modular, scalable infrastructure
