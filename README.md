@@ -1,10 +1,10 @@
-# 🚀 Hi, I'm a DevOps & Cloud Engineer
+#  Hi, I am Indresh Pal, I'm a DevOps & Cloud Engineer
 
 **Cloud-native DevOps Engineer and Platform Architect obsessed with scalability, automation, and building resilient systems.**
 
 ---
 
-## 🧠 Who I Am
+##  Who I Am
 I’m a **DevOps Architect & Platform Builder** who loves designing systems that **scale effortlessly**, survive failures, and stay cost-efficient.  
 I enjoy working in **startup environments** where challenges are real, learning is constant, and impact is visible.
 
@@ -12,7 +12,7 @@ I don’t just deploy infrastructure — **I engineer platforms**.
 
 ---
 
-## ☁️ Cloud & DevOps Stack
+##  Cloud & DevOps Stack
 
 ### 🔹 Cloud Platforms
 - **AWS (Primary)**
@@ -42,9 +42,9 @@ I don’t just deploy infrastructure — **I engineer platforms**.
 
 ---
 
-## 🏗️ Real-World Project Experience
+##  Real-World Project Experience
 
-### 🏦 Banking Application Deployment
+###  Banking Application Deployment
 **Problem:**  
 Traditional deployment lacked scalability, automation, and observability.
 
@@ -64,7 +64,7 @@ Traditional deployment lacked scalability, automation, and observability.
 
 ---
 
-## 🔥 What Makes Me Different
+##  What Makes Me Different
 - I think in **systems**, not just tools  
 - I focus on **scalability first**
 - I enjoy **complex challenges**
@@ -73,36 +73,36 @@ Traditional deployment lacked scalability, automation, and observability.
 
 ---
 
-## 🎯 Career Focus
+##  Career Focus
 - **Target Roles:** DevOps Engineer | Cloud Engineer
 - **Work Preference:**  
-  - 🌍 Remote  
-  - ✈️ Relocation  
+  -  Remote  
+  -  Relocation  
 - **Company Type:**  
-  - 🚀 Startups  
+  -  Startups  
   - Fast-paced, high-ownership environments
 
 ---
 
-## 📈 Learning & Growth Mindset
+##  Learning & Growth Mindset
 - Actively improving my understanding of **DevOps at scale**
 - Exploring **future optimization of DevOps practices**
 - Focused on how DevOps evolves with **cloud, automation, and AI**
 
-**🎯 6-Month Goal:**  
+** 6-Month Goal:**  
 Become deeply proficient in **modern DevOps practices** and understand how DevOps will be **optimized and transformed in the future**.
 
 ---
 
-## 🧩 Work Style
-- 🧠 Problem Solver  
-- ⚡ Bold Decision Maker  
-- 🛠️ Platform Builder  
+##  Work Style
+-  Problem Solver  
+-  Bold Decision Maker  
+-  Platform Builder  
 
 > *“Build systems that scale, automate everything, and never stop improving.”*
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 If you’re building something exciting and need someone who loves **scalability, automation, and real challenges** — let’s talk.
 
